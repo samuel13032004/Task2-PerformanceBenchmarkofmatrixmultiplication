@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jmh-src-test-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/out/artifacts/jmh_src_test_1_0_SNAPSHOT</output-path>
+    <root id="archive" name="jmh-src-test-1.0-SNAPSHOT.jar" />
+  </artifact>
+</component>
